@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Alan",
+    "employeeId": 100,
+    "managerId": 220
+  },
+  {
+    "name": "Martin",
+    "employeeId": 220,
+    "managerId": 100
+  },
+  {
+    "name": "Jamie",
+    "employeeId": 150,
+    "managerId": null
+  }
+]
